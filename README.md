@@ -49,7 +49,7 @@ https://saas-landing-tau-smoky.vercel.app/
 
 **SCREENSHOTS**
 
-
+1. Here is the link of the screenshots pdf uploaded on the drive  https://drive.google.com/file/d/1K0TgdQfnpeyU548A35q8qEz1dBdpmQt3/view?usp=sharing
 
 **DECISIONS AND TRADEOFFS**
 
