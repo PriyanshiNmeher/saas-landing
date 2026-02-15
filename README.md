@@ -1,6 +1,9 @@
 **LIVE LINK**
 https://saas-landing-tau-smoky.vercel.app/
 
+**DEMO VIDEO LINK**
+https://drive.google.com/file/d/1QvcHKYn6rsS4z7-tF5z3-jUEMndf9Gz6/view?usp=sharing
+
 **For the live preview**
 1. Sigup with the required informations
 2. Or use "hello@world" and "Hello@123" as Login credentials
