@@ -26,7 +26,6 @@ const Header = ({ className, ...props }) => {
     <header
       className={twMerge(
         'w-full' ,
-        className
       )}
       {...props}
     >
